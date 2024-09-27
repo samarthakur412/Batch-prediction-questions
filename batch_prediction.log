@@ -1,0 +1,8 @@
+2024-09-27 15:08:56,433 - INFO - Batch prediction process started.
+2024-09-27 15:08:56,469 - INFO - Model loaded successfully.
+2024-09-27 15:08:56,473 - INFO - Data loaded successfully.
+2024-09-27 15:08:56,473 - INFO - Data preprocessed (missing values filled).
+2024-09-27 15:08:56,474 - INFO - 'target' column dropped for predictions.
+2024-09-27 15:08:56,483 - INFO - Predictions made successfully.
+2024-09-27 15:08:56,485 - INFO - Predictions saved to predictions.csv.
+2024-09-27 15:08:56,485 - INFO - Batch prediction process completed.
